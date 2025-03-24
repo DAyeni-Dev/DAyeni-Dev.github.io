@@ -1,27 +1,33 @@
 # DAyeni-Dev.github.io
-Hi there! I'm Oluwadamilola Ayeni, a Software Engineer and Quality Assurance professional with over five years of experience ensuring high-quality digital products. Currently transitioning into Front-End Development, I specialize in HTML, CSS, and React, leveraging my strong QA background to build seamless and user-friendly applications.
+👩🏽‍💻 Who am I?
+I'm Oluwadamilola Ayeni, a Software Engineer with a strong passion for Front-End Development and Quality Assurance. With over five years of experience, I specialize in building seamless and user-friendly applications while ensuring software reliability through manual and automated testing. I love crafting clean, efficient code with HTML, CSS, and React, leveraging my QA expertise to enhance digital experiences.
 
-💡 What I Do:
+🌱 I’m currently learning about...
+Front-End Development at ALX to sharpen my skills in modern web technologies
 
-Front-End Development – Building intuitive and responsive web applications using React, HTML, and CSS.
+Advanced React concepts and JavaScript frameworks
 
-Quality Assurance – Ensuring software reliability through manual & automated testing.
+Performance optimization and accessibility best practices
 
-Debugging & Optimization – Improving performance and efficiency in digital solutions.
+Test-driven development (TDD) for front-end applications
 
-🔥 Experience Highlights:
+🛠 What I work on...
+Building responsive and interactive web applications
 
-Played a key role in onboarding testing for Zap Africa.
+Debugging and optimizing front-end performance
 
-Currently working at Technocrats, combining QA expertise with front-end development.
+Automating test processes for higher efficiency and quality
 
-🎯 Goals & Aspirations:
+Bridging the gap between development and QA
 
-Become a top-tier Front-End Developer.
+📝 I write at...
+I frequently share insights on software testing, front-end development, and automation. 
 
-Master Full-Stack Development.
+🎯 Goals & Aspirations
+Become a top-tier Front-End Developer
 
-Build impactful digital solutions that enhance user experiences.
+Master Full-Stack Development
 
-💻 Let's Connect!
-🚀 Check out my projects and contributions here on GitHub!
+Build impactful digital solutions that enhance user experiences
+
+🚀 Let’s connect and build amazing things together!
